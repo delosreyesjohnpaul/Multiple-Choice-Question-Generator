@@ -39,7 +39,3 @@ This repository contains a Flask-based application for generating multiple-choic
 2. Upload a text file containing your content or manually type in your questions.
 3. Configure the question generation settings as needed.
 4. Generate and review your multiple-choice questions.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
